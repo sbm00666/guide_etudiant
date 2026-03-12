@@ -2,34 +2,26 @@ GUIDE ETUDIANT
 
 Auteur : Haoua Halidou
 
-Présentation:
-
+->Présentation:
    Ce guide étudiant est un document destiné à aider les étudiants
 à mieux comprendre la vie universitaire et à réussir leurs études.
 
-Objectif du guide:
-
-    L'objectif de ce guide est de fournir aux étudiants des informations
+->Objectif du guide:
+  L'objectif de ce guide est de fournir aux étudiants des informations
 utiles pour mieux organiser leurs études et améliorer leurs méthodes
 de travail.
-
-   Ce document contient également des conseils pratiques pour faciliter
+  Ce document contient également des conseils pratiques pour faciliter
 la réussite académique.
 
-Structure du guide:
-
-     Ce guide est composé de trois parties principales :
-
+->Structure du guide:
+   Ce guide est composé de trois parties principales :
 1. La présentation du guide étudiant
 2. L'organisation des études
 3. Les conseils pour réussir
+ Chaque partie est rédigée par un membre du groupe.
 
-Chaque partie est rédigée par un membre du groupe.
-
-Répartition du travail:
-
+->Répartition du travail:
     Ce projet est réalisé par trois étudiants :
-
 Haoua Halidou : présentation du guide étudiant
 Souleymanou Moussa : organisation des études
 Izzadine Adamou : conseils pour réussir.
