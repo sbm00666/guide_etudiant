@@ -15,3 +15,13 @@ de travail.
 
    Ce document contient également des conseils pratiques pour faciliter
 la réussite académique.
+
+Structure du guide:
+
+     Ce guide est composé de trois parties principales :
+
+1. La présentation du guide étudiant
+2. L'organisation des études
+3. Les conseils pour réussir
+
+Chaque partie est rédigée par un membre du groupe.
