@@ -25,3 +25,11 @@ Structure du guide:
 3. Les conseils pour réussir
 
 Chaque partie est rédigée par un membre du groupe.
+
+Répartition du travail:
+
+    Ce projet est réalisé par trois étudiants :
+
+Haoua Halidou : présentation du guide étudiant
+Souleymanou Moussa : organisation des études
+Izzadine Adamou : conseils pour réussir.
